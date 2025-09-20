@@ -1,9 +1,9 @@
 {
-  "base": {
+    "base": {
     "project": "${JOB_NAME}",
     "environment": "${ENVIRONMENT}",
     "comment": "${COMMENT}",
-    "reportLink": "${BUILD_URL}allure",
+    "reportLink": "${BUILD_URL}",
     "language": "en",
     "allureFolder": "allure-report",
     "enableChart": true
