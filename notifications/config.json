@@ -1,16 +1,16 @@
 {
   "base": {
-    "project": "My project",
-    "environment": "My env",
-    "comment": "Hmmm...looks tasty",
-    "reportLink": "",
+    "project": "${JOB_NAME}",
+    "environment": "${ENVIRONMENT}",
+    "comment": "${COMMENT}",
+    "reportLink": "${BUILD_URL}allure",
     "language": "en",
     "allureFolder": "allure-report",
     "enableChart": true
   },
   "telegram": {
-    "token": "${TELEGRAM_TOKEN}",
-    "chat": "${TELEGRAM_CHAT}",
+    "token": "8379381625:AAGbaeIJaBW9gF-pr84SbAcZ3yxz7bwGSXI",
+    "chat": "-1003097357503",
     "replyTo": ""
   }
 }
