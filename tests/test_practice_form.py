@@ -1,7 +1,7 @@
 from selene import browser, be, have
 import os
 from utils import attach
-image_path = os.path.abspath("resources/test_check.txt")
+image_path = os.path.abspath("../resources/test_check.txt")
 import allure
 from selene.support.shared import browser
 
