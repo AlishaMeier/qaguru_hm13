@@ -3,11 +3,11 @@
     "project": "Homework13_21",
     "environment": "Staging",
     "comment": "✅ Here are the latest test results:",
-    "reportLink": "[Open Allure Report](${BUILD_URL}allure/)",
+    "reportLink": "",
     "language": "en",
     "allureFolder": "allure-report",
     "enableChart": true,
-    "enableSuitesPublishing": true,
+    "enableSuitesPublishing": false,
     "durationFormat": "HH:mm:ss.SSS",
     "logo": "logo.png"
   },
