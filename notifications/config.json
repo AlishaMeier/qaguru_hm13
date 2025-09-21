@@ -1,0 +1,16 @@
+{
+  "base": {
+    "project": "Homework13_21",
+    "environment": "Staging",
+    "comment": "Here is test's results",
+    "reportLink": "",
+    "language": "en",
+    "allureFolder": "allure-results",
+    "enableChart": true
+  },
+  "telegram": {
+    "token": "8379381625:AAGbaeIJaBW9gF-pr84SbAcZ3yxz7bwGSXI",
+    "chat": "-1002977541202",
+    "replyTo": ""
+  }
+}

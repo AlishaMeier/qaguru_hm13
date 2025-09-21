@@ -4,7 +4,7 @@ from selene.support.shared import browser
 from selene import be, have
 from utils import attach
 
-IMAGE_PATH = os.path.join(os.path.dirname(__file__), 'resources/test_check.txt')
+IMAGE_PATH = os.path.join(os.path.dirname(__file__), '../resources/test_check.txt')
 
 @allure.title("Filled registration form")
 def test_fill_form(setup_browser):
