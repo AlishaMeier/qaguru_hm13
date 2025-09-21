@@ -10,3 +10,5 @@ Task
 
 
 To complete the homework assignment, you need to attach a screenshot from the Telegram chat with a notification about the completion of automated tests in the answer field.
+
+<img width="546" height="352" alt="Снимок экрана 2025-09-21 в 10 59 56 PM" src="https://github.com/user-attachments/assets/1129c622-f23d-46be-87b1-4eb8c9397287" />
