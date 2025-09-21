@@ -2,13 +2,13 @@
   "base": {
     "project": "Homework13_21",
     "environment": "Staging",
-    "comment": "Here is test's results",
-    "reportLink": "[Open Allure Report](${JOB_URL}${BUILD_NUMBER}/allure/)",
+    "comment": "✅ Here are the latest test results:",
+    "reportLink": "[Open Allure Report](${BUILD_URL}allure/)",
     "language": "en",
     "allureFolder": "allure-report",
     "enableChart": true,
-    "durationFormat": "HH:mm:ss.SSS",
     "enableSuitesPublishing": true,
+    "durationFormat": "HH:mm:ss.SSS",
     "logo": "logo.png"
   },
   "telegram": {
