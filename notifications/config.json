@@ -1,9 +1,9 @@
 {
   "base": {
-    "project": "",
-    "environment": "",
+    "project": "some project",
+    "environment": "some env",
     "comment": "✅ Here are the latest test results:",
-    "reportLink": "",
+    "reportLink": "some link",
     "language": "en",
     "allureFolder": "allure-report",
     "enableChart": true,
