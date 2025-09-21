@@ -3,13 +3,14 @@
     "project": "Homework13_21",
     "environment": "Staging",
     "comment": "Here is test's results",
-    "reportLink": "${BUILD_URL}allure/",
+    "reportLink": "[Open Allure Report](${JOB_URL}${BUILD_NUMBER}/allure/)",
     "language": "en",
     "allureFolder": "allure-report",
     "enableChart": true,
     "durationFormat": "HH:mm:ss.SSS",
     "enableSuitesPublishing": true,
-    "logo": "logo.png"
+    "logo": "logo.png",
+    "telegramParseMode": "Markdown"
   },
   "telegram": {
     "token": "8379381625:AAGbaeIJaBW9gF-pr84SbAcZ3yxz7bwGSXI",
