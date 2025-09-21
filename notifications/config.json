@@ -9,8 +9,7 @@
     "enableChart": true,
     "durationFormat": "HH:mm:ss.SSS",
     "enableSuitesPublishing": true,
-    "logo": "logo.png",
-    "telegramParseMode": "Markdown"
+    "logo": "logo.png"
   },
   "telegram": {
     "token": "8379381625:AAGbaeIJaBW9gF-pr84SbAcZ3yxz7bwGSXI",
