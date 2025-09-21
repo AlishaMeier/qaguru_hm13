@@ -1,19 +1,19 @@
 {
   "base": {
-    "project": "some project",
-    "environment": "some env",
+    "project": "Homework13_21",
+    "environment": "Staging",
     "comment": "✅ Here are the latest test results:",
-    "reportLink": "some link",
+    "reportLink": "allure/",
     "language": "en",
     "allureFolder": "allure-report",
     "enableChart": true,
-    "enableSuitesPublishing": false,
+    "enableSuitesPublishing": true,
     "durationFormat": "HH:mm:ss.SSS",
     "logo": "logo.png"
   },
   "telegram": {
-    "token": "8379381625:AAGbaeIJaBW9gF-pr84SbAcZ3yxz7bwGSXI",
-    "chat": "-1002977541202",
+    "token": "...",
+    "chat": "...",
     "replyTo": ""
   }
 }
